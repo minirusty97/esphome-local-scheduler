@@ -1,0 +1,15 @@
+secrets.yaml
+secrets.yml
+.env
+.env.*
+private/
+backups/
+.esphome/
+.pio/
+build/
+__pycache__/
+*.dmp
+*.bin
+*.elf
+*.hex
+*.uf2

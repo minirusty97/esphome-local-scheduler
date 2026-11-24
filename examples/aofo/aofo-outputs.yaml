@@ -1,0 +1,6 @@
+substitutions:
+  aofo_s1_name: "Outlet 1"
+  aofo_s2_name: "Outlet 2"
+  aofo_s3_name: "Outlet 3"
+  aofo_s4_name: "Outlet 4"
+  aofo_usb_name: "USB"
